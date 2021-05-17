@@ -9,7 +9,7 @@ name: Evgenios Kornaropoulos
 description: Assistant Professor, George Mason Univeristy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/m.png
+avatar: "{{ site.baseurl }}/images/m.png"
 
 #
 # Flags below are optional
